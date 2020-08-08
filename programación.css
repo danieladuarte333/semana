@@ -1,0 +1,42 @@
+# { 
+  margin:50;
+  pagging:40;
+  box-sizing: border-box; 
+   text-align: center: 25;
+  
+} 
+body{ 
+  margin-top: 70px;
+  justify-content: center;
+  background: plum ; 
+    color: black; 
+} 
+Center{ 
+  margin-top: 25px;
+  color: brown; 
+} 
+h1{
+  margin-top:30px;
+  color: purple;
+}
+h2{ 
+  margin-top:30px;
+  color:gold;
+}
+h3{ 
+  margin-top:30px;
+  color:green;
+
+
+P align="right"{  
+  pagging:25;
+  font-size: 25px;
+} 
+.titulo{ 
+  background-position: center; 
+  box-sizing: content-box;
+  text-align: center; 
+  font-size: 40px;
+  color: blue;
+ 
+} 
